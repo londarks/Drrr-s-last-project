@@ -19,7 +19,7 @@
  
 1. Clone o repositorio
 
-2. install dependências
+2. instale dependências
 
 3. Rode o bot com  ``` python or py main.py ```
 
