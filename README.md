@@ -18,7 +18,9 @@
 ### :computer: Instalação
  
 1. Clone o repositorio
+
 2. install dependências
+
 3. Rode o bot com  ``` python or py main.py ```
 
 ## Sobre o Projeto
