@@ -19,14 +19,15 @@
  
 1. Clone o repositorio
 
-2. instale dependências
+2. instale as dependências
 
 3. Rode o bot com  ``` python or py main.py ```
 
 ## Sobre o Projeto
 
 Projeto feito para criar um Cliente Desktop para o website drrr.com, porem Python se mostrou Inapto para continuar esse estudos!
-![Alt text](https://files.catbox.moe/072s7t.png "Home")
+
+![IMG](https://files.catbox.moe/072s7t.png "Home")
 ## Autor
 - **Londarks** - _Developer & Member of He4rt Developers_ - [Twitter](https://twitter.com/londarks)
 
