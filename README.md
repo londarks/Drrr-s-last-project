@@ -21,7 +21,7 @@
 
 2. instale as dependências
 
-3. Rode o bot com  ``` python or py main.py ```
+3. Rode o client com  ``` python or py drrr.pyw ```
 
 ## Sobre o Projeto
 
